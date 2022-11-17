@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Laba1_Chusov</string>
+    <string name="List">Список дел</string>
+    <string name="aalarm">Будильник</string>
+    <string name="kal">Календарь</string>
+    <string name="nastr">Настройки</string>
+    <string name="dataandchas">Дата и время</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="polsovatel">Профиль пользователя</string>
+    <string name="zvyk">Настройки звука</string>
+    <string name="proverka">Проверить обновления</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="ppolzav">Профиль полльзователя</string>
+    <string name="title_activity_user_login_reg">UserLoginReg</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="izmenit">Изменить задачу</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="izmenit1">Добавить задачу</string>
+    <string name="title_activity_user_login_regestracia">UserLoginRegestracia</string>
+    <string name="Regestrat">Регистрация</string>
+    <string name="Vxod">Войти</string>
+    <string name="bydiBudilnik">Добавить будильник</string>
+    <string name="title_activity_user_login_voiti">UserLoginVoiti</string>
+    <string name="title_activity_create_alarm">CreateAlarmActivity</string>
+</resources>
